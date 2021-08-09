@@ -16,10 +16,12 @@ body{
     font-size: 78px; 
 }
 .player1 h1{
+    font-family: 'MonteCarlo', cursive;
     text-align: center;
     margin-bottom: 50px;
 }
 .player2 h1{
+    font-family: 'MonteCarlo', cursive;
     text-align: center;
     margin-bottom: 50px;
 }
